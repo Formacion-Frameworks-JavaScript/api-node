@@ -1,0 +1,76 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Fantastic Mr. Fox",
+      "director": "Wes Anderson",
+      "anyo": 2009,
+      "cartel": "https://images-na.ssl-images-amazon.com/images/I/515cCzEhUIL.jpg",
+      "vista": false,
+      "valoracion": 0
+    },
+    {
+      "id": 2,
+      "titulo": "El ataque de los tomates asesinos",
+      "director": "Wes Anderson",
+      "anyo": 1978,
+      "cartel": "https://st-listas.20minutos.es/images/2007-09/164/3641_249px.jpg?1190728503",
+      "vista": false,
+      "valoracion": 0
+    },
+    {
+      "id": 3,
+      "titulo": "Alguien voló sobre el nido del cuco",
+      "director": "Milos Forman",
+      "anyo": 1975,
+      "cartel": "http://img.aullidos.com/imagenes/caratulas/alguien-volo-sobre-el-nido-del-cuco.jpg",
+      "vista": false,
+      "valoracion": 0
+    },
+    {
+      "id": 4,
+      "titulo": "Desafío total",
+      "director": "Paul Verhoeven",
+      "anyo": 1990,
+      "cartel": "https://www.elseptimoarte.net/carteles/desafio_total_3773.jpg",
+      "vista": false,
+      "valoracion": 0
+    },
+    {
+      "id": 5,
+      "titulo": "Seven (Se7en)",
+      "director": "David Fincher",
+      "anyo": 1995,
+      "cartel": "https://3.bp.blogspot.com/-NpcWr8ZfAs4/T9t6sER_SQI/AAAAAAAAMwk/5mGFR5R_8t8/s275/seven.jpg",
+      "vista": true,
+      "valoracion": 5
+    },
+    {
+      "id": 6,
+      "titulo": "Cómo ser John Malkovich",
+      "director": "Spike Jonze",
+      "anyo": 1999,
+      "cartel": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmUxY2MyOTQtYjRlMi00ZWEwLTkzODctZDMxNDcyNTFhYjNjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "vista": true,
+      "valoracion": 5
+    },
+    {
+      "id": 7,
+      "titulo": "Las vidas posibles de Mr. Nobody",
+      "director": "Jaco Van Dormael",
+      "anyo": 2009,
+      "cartel": "http://cetr.net/wp-content/uploads/2017/09/mr_nobody_23190.jpg",
+      "vista": true,
+      "valoracion": 3
+    },
+    {
+      "id": 8,
+      "titulo": "Multiple",
+      "director": "M. Night Shyamalan",
+      "anyo": 2016,
+      "cartel": "http://es.web.img2.acsta.net/c_215_290/pictures/16/11/30/17/12/481084.jpg",
+      "vista": true,
+      "valoracion": 1
+    }
+  ]
+}
